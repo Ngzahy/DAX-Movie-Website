@@ -1,6 +1,11 @@
-@import 'variable';
-@import 'mixin';
+@import "mixin";
+@import "variable";
+@import "header";
+@import "footer";
 
+body{
+  background-color: #10141b !important;
+}
 
 
 
